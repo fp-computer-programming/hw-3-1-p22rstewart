@@ -11,7 +11,7 @@ elif x % 2 == 0 and x % 5 == 0:
 elif x % 3 == 0 and x % 5 == 0:
     print("multiples of 3 and 5")
 elif x % 2 == 0:
-    print("multiple of 2") 
+    print("multiple of 2")
 elif x % 3 == 0:
     print("multiple of 3")
 elif x % 5 == 0:
