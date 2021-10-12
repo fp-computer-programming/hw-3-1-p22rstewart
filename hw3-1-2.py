@@ -3,7 +3,7 @@
 x = int(input("Input first card's worth: "))
 y = int(input("Input second card's worth: "))
 
-if x + y <= 21:
-    print("Safe")
+if x + y >  21:
+    print("You lose")
 else:
-    print("Bust!")
+    print("You Win!")

@@ -16,3 +16,5 @@ elif x % 3 == 0:
     print("multiple of 3")
 elif x % 5 == 0:
     print("multiple of 5")
+else:
+    print("not a multiple of 2, 3 or 5")
